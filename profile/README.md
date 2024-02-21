@@ -8,6 +8,6 @@
    <span style="color: #D724FF; font-size: 20px">Inventions & Simplifications</span>
 </p>
 <p align="center">
-   <img src="[./build/sparplugui.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lmN3pyN3F0N3ZzNjVmaHhwbWVrdnI3dHcxamk5dDZoYnRvZHVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wX4DkGDuv8ZQb5S5hd/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lmN3pyN3F0N3ZzNjVmaHhwbWVrdnI3dHcxamk5dDZoYnRvZHVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wX4DkGDuv8ZQb5S5hd/giphy.gif" alt="Cookin GIF GIF" height="667"/>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lmN3pyN3F0N3ZzNjVmaHhwbWVrdnI3dHcxamk5dDZoYnRvZHVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wX4DkGDuv8ZQb5S5hd/giphy.gif" alt="Cookin GIF" height="667"/>
 </p>
-💰 Please pay me: patreon.com/user?u=117579457
+💰 Please pay me: https://www.patreon.com/user?u=117579457
