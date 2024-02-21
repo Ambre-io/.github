@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/u/155398837?s=200&v=4" width="200" />
-</p>
 <h1 align=center>
    <div style="color: #D724FF; padding-top: 10px; font-size: 20px">Ambre.io</div>
 </h1>
