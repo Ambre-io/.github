@@ -30,7 +30,7 @@ Build cash machines in which humans are at the center and thrive.
 
 Use part of the money to create "frontline professions" companies in which employees would be paid 2 to 3 times more than the minimum wage. So that people who have these roles also have a decent life with more access. Which will contribute to societal rebalance.
 
-𝗦𝗽𝗼𝗻𝘀𝗼𝗿𝘀
+### Sponsors
 
 I understood what I sincerely love and I also understood that I couldn't achieve it entirely alone.
 
