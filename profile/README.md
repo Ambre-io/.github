@@ -7,4 +7,4 @@
 <p align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lmN3pyN3F0N3ZzNjVmaHhwbWVrdnI3dHcxamk5dDZoYnRvZHVlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wX4DkGDuv8ZQb5S5hd/giphy.gif" alt="Cookin GIF" height="667"/>
 </p>
-💰 Please pay me: https://www.patreon.com/user?u=117579457
+💰 Please help me cookin with GitHub Sponsors or [Patreon](https://www.patreon.com/user?u=117579457)
