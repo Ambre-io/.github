@@ -23,8 +23,8 @@ A focus is placed on simplicity, intelligence, power and elegance.
 Obtain stable and sufficient regular income to devote myself entirely to projects.
 
 ***Middle Term***
-
-Build cash machines in which humans are at the center and thrive.
+ 
+Build cash machines with humans who always strive and prosper.
 
 ***Long Term***
 
