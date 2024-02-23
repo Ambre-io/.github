@@ -36,9 +36,9 @@ I understood what I sincerely love and I also understood that I couldn't achieve
 
 In reality I need you.
 
-Both on the financial aspect which has a direct implication but also on the human aspect. I testify, it feels good to feel supported!
+Both on the financial aspect which has a direct implication but also on the human aspect: I testify, it feels good to feel supported!
 
-Feel free to consider becoming a Sponsor on [GitHub](https://github.com/Ambre-io) or [Patreon](https://www.patreon.com/user?u=117579457).
+Consider becoming a Sponsor on [GitHub](https://github.com/Ambre-io) or [Patreon](https://www.patreon.com/user?u=117579457).
 
 Thank you for your time, energy and consideration.
 
