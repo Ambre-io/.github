@@ -39,6 +39,7 @@ In reality I need you.
 Both on the financial aspect which has a direct implication but also on the human aspect: I testify, it feels good to feel supported!
 
 Consider becoming a Sponsor on [GitHub](https://github.com/Ambre-io) or [Patreon](https://www.patreon.com/user?u=117579457).
+You also can pay me a [Ko-fi](https://ko-fi.com/ambreio)!
 
 Thank you for your time, energy and consideration.
 
