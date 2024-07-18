@@ -51,5 +51,3 @@ Thank you for your time, energy and consideration.
 <p align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtodWNqbHVnZ3hua2t6MWE5ZTVhYmo0eDB6YnRzYmx1bm1mcGluNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4Ki4biBSwhjyrS48/giphy.gif" alt="Givin GIF" width="400" />
 </p>
-
-Guillaume Klimek
