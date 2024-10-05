@@ -2,7 +2,7 @@
    <div style="color: #D724FF; padding-top: 10px; font-size: 20px">Ambre.io</div>
 </h1>
 <p align="center">
-   <span style="color: #D724FF; font-size: 20px">Inspiring Greatness - Simple, Elegant & Efficient Software</span>
+   <span style="color: #D724FF; font-size: 20px">Inventions and Simplifications</span>
 </p>
 
 ### Company
