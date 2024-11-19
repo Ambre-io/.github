@@ -45,7 +45,7 @@ Use part of the money to create "frontline professions" companies in which emplo
 In reality, your support is invaluable to us: feeling supported is incredibly encouraging!
 
 Please consider becoming a Sponsor on [GitHub](https://github.com/Ambre-io) or [Patreon](https://www.patreon.com/user?u=117579457).
-You can also support us with a Ko-fi [Ko-fi](https://ko-fi.com/ambreio).
+You can also support us with a [Ko-fi](https://ko-fi.com/ambreio).
 
 Thank you for your time, energy and consideration.
 <p align="center">
